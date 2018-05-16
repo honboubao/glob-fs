@@ -30,7 +30,7 @@
     "extend-shallow": "^2.0.0",
     "get-value": "^1.1.5",
     "glob-fs-dotfiles": "^0.1.6",
-    "glob-fs-gitignore": "^0.1.5",
+    "glob-fs-gitignore": "github:honboubao/glob-fs-gitignore#use-parse-gitignore-fork",
     "glob-parent": "^1.2.0",
     "graceful-fs": "^4.1.2",
     "is-dotdir": "^0.1.0",
